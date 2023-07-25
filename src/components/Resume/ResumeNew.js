@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://drive.google.com/file/d/1g97psto5ny3KIrC_MxSY5fizDAvf8QNR/view?usp=sharing";
+  "https://github.com/blaze0330/Arima/tree/main/src/Assets/Arima.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
