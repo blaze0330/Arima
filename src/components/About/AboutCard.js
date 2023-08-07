@@ -8,9 +8,9 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Angel Torres</span>
-            from <span className="purple"> Nagoya, Japan.</span>
-            <br />I am a Senior Full Stack Engineer with over 8 years of
+            Hi Everyone, I am <span className="purple">Angel Torres </span>
+            from <span className="purple"> Manila, Philippines.</span>
+            <br />I am a Senior Software Engineer with over 8 years of
             experience
             <br />
             <br />
